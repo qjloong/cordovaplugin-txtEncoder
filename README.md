@@ -1,4 +1,9 @@
 # cordovaplugin-txtEncoder
+
+
+install $: cordova plugin add cordova.plugin.TxtEncoder
+
+
 getTxtEncoder 
 
 
